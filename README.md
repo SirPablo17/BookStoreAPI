@@ -14,7 +14,6 @@ O projeto simula um ambiente real de CRUD (Create, Read, Update, Delete), utiliz
 
 - **Cadastrar Livros (POST):** Permite adicionar novos livros ao acervo com validações rigorosas.
 - **Consultar Livros (GET):** - Listar todos os livros cadastrados.
-  - Buscar detalhes de um livro específico pelo ID.
 - **Atualizar Livros (PUT):** Permite a edição de informações de um livro existente.
 - **Remover Livros (DELETE):** Exclui um livro do acervo.
 
@@ -31,7 +30,7 @@ O sistema garante a integridade dos dados através das seguintes regras:
 
 - **C#**
 - **.NET 8** (ASP.NET Core Web API)
-- **Swagger / OpenAPI** (Para documentação e teste da API)
+- **Swagger  (Para documentação e teste da API)
 - **Arquitetura em Camadas** (Separação entre Communication, Application e API)
 
 ## 📂 Estrutura do Projeto
