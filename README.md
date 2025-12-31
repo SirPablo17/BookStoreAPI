@@ -14,6 +14,7 @@ O projeto simula um ambiente real de CRUD (Create, Read, Update, Delete), utiliz
 
 - **Cadastrar Livros (POST):** Permite adicionar novos livros ao acervo com validações rigorosas.
 - **Consultar Livros (GET):** - Listar todos os livros cadastrados.
+- - **Consultar Livros (GET):** - Listar livros por ID.
 - **Atualizar Livros (PUT):** Permite a edição de informações de um livro existente.
 - **Remover Livros (DELETE):** Exclui um livro do acervo.
 
